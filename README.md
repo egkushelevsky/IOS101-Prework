@@ -43,6 +43,8 @@ Some Favorite Applications:
 
 My first iOS project!
 
+I was having some issues with pushing my git repo from the Terminal, so I ended up pushing it directly from XCode.
+
 ## License
 
     Copyright 2025 Elizabeth Kushelevsky
